@@ -10,7 +10,7 @@ class Home extends BaseController
             'status' => 200,
             'error' => "false",
             'message' => '',
-            'data' => 'welcome_message',
+            'data' => 'ppekkkkkkkkkkkkkkkkkkkk',
         ];
 
         return $this->response->setJSON($response);
